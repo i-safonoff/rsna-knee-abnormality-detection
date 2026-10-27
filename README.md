@@ -10,7 +10,7 @@ Kaggle · RSNA Knee Abnormality Detection 2026 · knee MRI, 12 findings, macro R
 
 [Kaggle write-up](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/writeups/212th-place-silver-gold-batch-fine-tuning-on-to)
 
-Author: Semyon Davshits
+Authors: Ivan Safonov & Semyon Davshits
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-code%20competition-20BEFF?logo=kaggle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
